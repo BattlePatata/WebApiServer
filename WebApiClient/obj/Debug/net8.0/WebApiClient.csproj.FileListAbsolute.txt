@@ -1,0 +1,14 @@
+C:\Users\Windows 11\source\repos\WebApiClient\bin\Debug\net8.0\WebApiClient.exe
+C:\Users\Windows 11\source\repos\WebApiClient\bin\Debug\net8.0\WebApiClient.deps.json
+C:\Users\Windows 11\source\repos\WebApiClient\bin\Debug\net8.0\WebApiClient.runtimeconfig.json
+C:\Users\Windows 11\source\repos\WebApiClient\bin\Debug\net8.0\WebApiClient.dll
+C:\Users\Windows 11\source\repos\WebApiClient\bin\Debug\net8.0\WebApiClient.pdb
+C:\Users\Windows 11\source\repos\WebApiClient\obj\Debug\net8.0\WebApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\WebApiClient\obj\Debug\net8.0\WebApiClient.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\WebApiClient\obj\Debug\net8.0\WebApiClient.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\WebApiClient\obj\Debug\net8.0\WebApiClient.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\WebApiClient\obj\Debug\net8.0\WebApiClient.dll
+C:\Users\Windows 11\source\repos\WebApiClient\obj\Debug\net8.0\refint\WebApiClient.dll
+C:\Users\Windows 11\source\repos\WebApiClient\obj\Debug\net8.0\WebApiClient.pdb
+C:\Users\Windows 11\source\repos\WebApiClient\obj\Debug\net8.0\WebApiClient.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\WebApiClient\obj\Debug\net8.0\ref\WebApiClient.dll
